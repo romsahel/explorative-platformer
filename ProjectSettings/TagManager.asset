@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lights
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - Foreground
+  - Ground
+  - Collectible
+  - Door
+  - Lights
+  - Enemies
+  - Void
+  - Traps
+  - OpenedDoors
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Moon
+    uniqueID: 948805369
+    locked: 0
+  - name: Background
+    uniqueID: 2935889545
+    locked: 0
+  - name: Platforms
+    uniqueID: 3139820581
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1400683983
+    locked: 0
+  - name: Foreground
+    uniqueID: 699432461
+    locked: 0
